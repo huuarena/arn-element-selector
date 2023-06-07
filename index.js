@@ -411,18 +411,3 @@ window.ARN_ELS_MAIN = ({ className, host, originDomain, callback = () => {} }) =
         callback(e.data)
     })
 }
-
-// // -------------------------------------
-// /**
-//  * Usage
-//  *
-//  */
-// <button id="btn-element-selector">Open new tab</button>
-
-// window.ARN_ELS_MAIN({
-//     className: 'btn-element-selector',
-//     host: 'http://127.0.0.1:5500/index2.html',
-//     originDomain: 'http://127.0.0.1:5500',
-//     callback: (data) => console.log('data :>> ', data),
-// })
-// // -------------------------------------
