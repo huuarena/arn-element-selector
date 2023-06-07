@@ -1,5 +1,6 @@
 {
     "name": "arn-element-selector",
+    "homepage": "https://github.com/huuarena/arn-element-selector",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
