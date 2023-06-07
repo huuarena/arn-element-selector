@@ -4,15 +4,13 @@
 
 A simple library that detects the element selector.
 
-### Instantiation:
+## Instantiation:
 
     yarn add arn-element-selector
-
-or
-
+    # or
     npm install arn-element-selector
 
-### Usage:
+## Usage:
 
 Import module:
 
@@ -31,8 +29,8 @@ Main function:
         callback: (data) => console.log('data :>> ', data), // required
     })
 
-### Customization:
+## Customization:
 
-### License:
+## License:
 
 MIT, see the source.
